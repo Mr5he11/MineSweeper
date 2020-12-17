@@ -123,7 +123,7 @@ void stampa(cella *array,int dim1,int dim2, int risp)
 						if (array[i][j].bandiera==1){
 							printf(" ⚐ │");
 						}else{
-							printf(" 💣 │");
+							printf("💣 │");
 						}
 					}
 					else if(array[i][j].stato==0){
