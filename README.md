@@ -7,6 +7,6 @@ You can use docker to build and run the project as follow:
 docker build -t minesweeper .
 docker run -it -rm --name minesweeper-running minesweeper
 ```
-Or you can try to compile the project by yourself with `$ make game`, but it could not work.
+Or you can try to compile the project by yourself with `$ make game`, but it could not work, depending on your OS and your compiler.
 
 Please remember that this project was made for an assignment of the programming course of my first college year, so don't judge me pls 🙏
